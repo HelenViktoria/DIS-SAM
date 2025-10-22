@@ -320,7 +320,7 @@ cython_debug/*.pt
 
 # Dataset folders - DIS5K contains large image datasetstemp/
 
-IS_Net/DIS5K/tmp/
+IS_Net/DIS5K/
 
 
 
