@@ -1,6 +1,6 @@
 # DIS-SAM (ICME 2025)
 
-This is the official PyTorch implementation of [DIS-SAM](https://arxiv.org/abs/2401.00248).
+This is the FORK of the official PyTorch implementation of [DIS-SAM](https://arxiv.org/abs/2401.00248).
 
 > # Promoting Segment Anything Model towards Highly Accurate Dichotomous Image Segmentation
 >
@@ -94,4 +94,5 @@ Please consider to cite DIS-SAM if it helps your research.
       url={https://arxiv.org/abs/2401.00248}, 
 }
 ```
+
 
